@@ -1,0 +1,9 @@
+.bound
+{
+	position: absolute;
+    box-shadow: inset 0px 0px 0px 2px #149df2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
